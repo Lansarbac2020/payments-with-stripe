@@ -1,4 +1,4 @@
-# 💳 Node.js Stripe Payments Function
+# 💳 Node.js Stripe Payments Function 
 
 Receive card payments and store paid orders.
 
