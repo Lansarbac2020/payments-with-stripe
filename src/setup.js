@@ -1,3 +1,4 @@
+// payment setup
 import AppwriteService from './appwrite.js';
 import { throwIfMissing } from './utils.js';
 
