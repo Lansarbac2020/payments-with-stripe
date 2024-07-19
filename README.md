@@ -13,7 +13,7 @@ This endpoint initiates a Stripe checkout session. The user ID is fetched from t
 | Name               | Description                                               | Location | Type               | Sample Value                |
 | ------------------ | --------------------------------------------------------- | -------- | ------------------ | --------------------------- |
 | x-appwrite-user-id | User ID from Appwrite.                                    | Header   | String             | 642...7cd                   |
-| Content-Type       | The content type of the request body                      | Header   | `application/json` | N/A                         |
+| Content-Type       | The content type of the request body                     | Header   | `application/json` | N/A                         |
 | successUrl         | The URL to redirect to after a successful payment.        | Body     | String             | https://example.com/success |
 | failureUrl         | The URL to redirect to after a cancelled payment attempt. | Body     | String             | https://example.com/failure |
 
